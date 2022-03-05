@@ -1,4 +1,4 @@
-# calgary-hacks2022-G9
+# calgary-hacks2022-G9-PlayWork
 .........
 
 1. Clone the repo
