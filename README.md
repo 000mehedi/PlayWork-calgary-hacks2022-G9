@@ -1,5 +1,9 @@
 # calgary-hacks2022-G9-PlayWork
 .........
+LINK:
+https://shadashalu.github.io/calgary-hacks2022-G9/
+
+OR
 
 1. Clone the repo
 2. Open in VSCode
