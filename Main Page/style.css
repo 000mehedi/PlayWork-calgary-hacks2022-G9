@@ -5,20 +5,24 @@
 .difficulty {
   align-items: flex-end;
 }
-#title {
+.title {
   text-align: center;
   margin: 16;
 }
 
 #container {
+  text-align: center;
+  margin: 16;
   height: 100px;
   width: 1920px;
   position: relative;
   border: 0px solid green;
   display: flex;
+  text-align: center;
 }
 
 #button-center {
+  display: flex;
   margin: 0;
   position: absolute;
   top: 350%;
@@ -49,6 +53,7 @@
   text-decoration: none;
   filter: brightness(100%);
   align-items: center;
+  text-align: center;
 }
 
 .btn:hover {
